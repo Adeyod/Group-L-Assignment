@@ -38,6 +38,7 @@
     width: 500px;
     height: 60px;
     border-radius: 20px;
+    padding: 0 20px;
 }
 .provider-logo.mtn {
     background-image: url('img/mtn.png');
@@ -62,4 +63,5 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding: 50px 10px 0 10px;
   }
